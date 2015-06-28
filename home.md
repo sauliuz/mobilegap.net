@@ -1,18 +1,12 @@
 # List of open source mobile applications
 
-MobileGap is the place where you can find many open source mobile application projects.
+MobileGap is the place where you can find many open source mobile application projects. This site lists projects for popular mobile platforms, all apps are grouped by platform, so it's easier for you to find what best fits your needs.
 
-This site lists projects for popular mobile platforms, all apps are grouped by platform, so its easier for you to find what best fits your needs.
+This and other pages of mobilegap.net website are open sourced on [MobileGap GitHub][1]. All you have to do is to create a pull request with your app added to the list. Please respect the order which is based on application name. More information about [submitting your project to mobilegap.net][2]
 
-Below list is populated in 2 ways. One - we handpick all the opensource apps based on how original they are, do they have interesting integrations, UX or 3rd party tools added. Two - you can submit open source mobile application by directly editing the contents of this page.
+Soon we are going to introduce the option to submit review post for any open source mobile application project. It will be the same concept - create a page and issue a pull request to mobilegap.net GitHub repo. Below are 3 lists:
 
-This and other pages of mobilegap.net web site are present on [MobileGap GitHub][1]. All you have to do is to create a pull request with your app added to the list. Please respect the order which is based on application name. More infromation about [submitting your project to mobilegap.net][2]
-
-Soon we are going to introduce the option to submit review post for any open source mobile application project. It will be the same concept - create a page and issue a pull request to mobilegap.net GitHub repo.
-
-Below are 3 lists:
-
-[iOS apps][3], [Android apps][4] and [HTML5 mobile applications][5]. We keep adding new projects as we find them on Internets or receive a ping from their creators. Another goal is to add a short summary and tech review to most interesting applications on the list, but it will take time. <a title="MobileGap on Twitter" href="https://twitter.com/mobilegap" target="_blank">Ping us</a> if you want to contribute.
+[iOS apps][3], [Android apps][4] and [HTML5 mobile applications][5]. We keep adding new projects as we find them on Internets or receive a ping from their creators. Another goal is to add a short summary and tech review to most interesting open source applications on the list, but it will take time.
 
 ## Open sourced mobile applications for Apple iOS mobile platform
 
