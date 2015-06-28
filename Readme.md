@@ -10,7 +10,7 @@ One thing we ask for submitters is to respect the order for new applications, it
 
 The actual website is being synched with GitHub every couple of weeks or so. Once [www.mobilegap.net][1] is synched with this repositary, your open source project will appear in the list.
 
-Dont be shy and let other developer know about your open source mobile app!
+Dont be shy and let other developers know about your open source mobile app!
 
 Project is maintained by [@sauliuz][2] and [PopularOwl][3].
 
