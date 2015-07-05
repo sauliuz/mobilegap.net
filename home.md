@@ -80,13 +80,14 @@ Soon we are going to introduce the option to submit review post for any open sou
 *   **[Rage Maker][69]** application for making funny comic strips with mobile phone powered by Android.
 *   **[Pedometer][70]** open source Android application which counts steps as smartphone owner walks.
 
-## Open source cross platform mobile applications built with HTML5 {#html5}
+## Open source cross platform applications built with HTML5 {#html5}
 
 *   **[Fresh Food Finder][71]** multi platform mobile application for finding where to purchase locally grown food. Built with HTML5 and PhoneGap framework.
-*   **[AngularJS Mobile][72]** is an example mobile application built using AngularJS framework, HTML5 and wrapped up with PhoneGap.
-*   **[DropboxSync][73]** mobile application which is built with the help of PhoneGap frameworks and lets users to sync and share their DropBox files between mobile apps.
-*   **[Green Mahjong][74]** is a HTML5 based GPLv3 solitaire mahjong game. It features three nice themes, six different layouts and works accross all the major desktop and mobile browsers.
-*   **[Tweedie][75]** another Twitter client application. This time it’s developed by using HTML5, JavaScript and PhoneGap mobile application framework.
+*   **[Framework7 and Parse Login][72]** example HTML5 application built with popular Framework7 framework which has integration with Parse BaaS service for user management. This application serves as a good example for building HTML5 apps with external backend service.
+*   **[AngularJS Mobile][73]** is an example mobile application built using AngularJS framework, HTML5 and wrapped up with PhoneGap.
+*   **[DropboxSync][74]** mobile application which is built with the help of PhoneGap frameworks and lets users to sync and share their DropBox files between mobile apps.
+*   **[Green Mahjong][75]** is a HTML5 based GPLv3 solitaire mahjong game. It features three nice themes, six different layouts and works accross all the major desktop and mobile browsers.
+*   **[Tweedie][76]** another Twitter client application. This time it’s developed by using HTML5, JavaScript and PhoneGap mobile application framework.
 
  [1]: https://github.com/sauliuz/mobilegap.net
  [2]: https://github.com/sauliuz/mobilegap.net/blob/master/Readme.md
@@ -108,7 +109,7 @@ Soon we are going to introduce the option to submit review post for any open sou
  [18]: https://github.com/RolandasRazma/Heredox
  [19]: https://github.com/mapbox/mapbox-earth
  [20]: https://github.com/Lyndir/MasterPassword
- [21]: href="https://github.com/mmackh/MStaff
+ [21]: https://github.com/mmackh/MStaff
  [22]: http://maniacdev.com/6xf
  [23]: https://github.com/WhiteHouse/wh-app-ios
  [24]: http://sourceforge.net/p/taskcoach/code/HEAD/tree/trunk/taskcoach-iphone/
@@ -138,7 +139,7 @@ Soon we are going to introduce the option to submit review post for any open sou
  [48]: https://github.com/insurgentgames/Skeleton-Key-iOS
  [49]: https://github.com/tderouin/wikiHow-iPhone-Application
  [50]: https://github.com/wikimedia/wikipedia-iphone
- [51]: href="https://github.com/alienblue/AlienBlue
+ [51]: https://github.com/alienblue/AlienBlue
  [52]: http://www.insurgentgames.com/aeropack/
  [53]: https://github.com/ericjohnson/canabalt-ios
  [54]: https://github.com/leonhandreke/fosdem
@@ -159,7 +160,8 @@ Soon we are going to introduce the option to submit review post for any open sou
  [69]: http://code.google.com/p/android-rage-maker/source/list
  [70]: https://github.com/bagilevi/android-pedometer
  [71]: https://github.com/triceam/Fresh-Food-Finder
- [72]: https://github.com/sauliuz/angularjs-mobile
- [73]: https://github.com/ccoenraets/phonegap-dropbox-sync/tree/master/sample
- [74]: https://github.com/danbeck/green-mahjong
- [75]: https://github.com/aanon4/tweedie
+ [72]: https://github.com/popularowl/framework7-parse
+ [73]: https://github.com/sauliuz/angularjs-mobile
+ [74]: https://github.com/ccoenraets/phonegap-dropbox-sync/tree/master/sample
+ [75]: https://github.com/danbeck/green-mahjong
+ [76]: https://github.com/aanon4/tweedie
