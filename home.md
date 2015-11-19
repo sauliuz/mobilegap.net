@@ -79,6 +79,7 @@ Soon we are going to introduce the option to submit review post for any open sou
 *   **[VLC][68]** media player is one of most popular media players out there. Its open source and ported for Android.
 *   **[Rage Maker][69]** application for making funny comic strips with mobile phone powered by Android.
 *   **[Pedometer][70]** open source Android application which counts steps as smartphone owner walks.
+*   **[messic4android][77]** Android client to listen to music from a messic server.
 
 ## Open source cross platform applications built with HTML5 {#html5}
 
@@ -165,3 +166,4 @@ Soon we are going to introduce the option to submit review post for any open sou
  [74]: https://github.com/ccoenraets/phonegap-dropbox-sync/tree/master/sample
  [75]: https://github.com/danbeck/green-mahjong
  [76]: https://github.com/aanon4/tweedie
+ [77]: https://github.com/spheras/messic-android
