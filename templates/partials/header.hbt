@@ -7,6 +7,19 @@
 
 <title>List of open source mobile apps - MobileGap</title>
 		
+<!-- analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36251445-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? '/web/20151211035418/https://ssl' : '/web/20151211035418/http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
 <meta name="description" content="MobileGap is the place summarizing open source mobile application projects. We list apps for popular mobile platforms, all are grouped by platform"/>
 <meta name="robots" content="noodp"/>
 <link rel="canonical" href="http://www.mobilegap.net/" />
