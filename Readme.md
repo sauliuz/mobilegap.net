@@ -1,19 +1,20 @@
-# Mobilegap.net
+## MobileGap - list of open source mobile application projects
 
-### About
-This GitHub repositary contains the pages of [www.mobilegap.net][1] site. MobileGap is the list of open source mobile applications, grouped by mobile platform. 
+### About MobileGap
+MobileGap is [a list of open sourced mobile application projects](http://www.mobilegap.net "list of open sourced mobile application projects") currated and managed by the community.
 
-### Add your application
-This repositary is the chance for you to submit your open source project for it to appear on MobileGap list. All you have to do is to issue pull request with the changes to **main.md** file (which contains all home page content). 
+MobileGap web site is an open source project project itself. You are welcome to contribute and add links to your open source projects by creating pull requests on GitHub.
 
-One thing we ask for submitters is to respect the order for new applications, its based on app name.
+### Contribute to MobileGap
 
-The actual website is being synched with GitHub every couple of weeks or so. Once [www.mobilegap.net][1] is synched with this repositary, your open source project will appear in the list.
+The content of mobilegap.net is maintained in Markdown language.
 
-Dont be shy and let other developers know about your open source mobile app!
+In order to add link to your application source code, you have to issue the pull request to update the [index.md](https://github.com/sauliuz/mobilegap.net "add the link to your open source application") page. **Please respect the order which is based on application name**.
 
-Project is maintained by [@sauliuz][2] and [PopularOwl][3].
+MobileGap is using Metalsmith to build html site from the Markdown pages.
 
-[1]: http://www.mobilegap.net
-[2]: https://twitter.com/sauliuz
-[3]: http://www.popularowl.com
+If there are submissions, the code is synched one or two times per month.
+
+If you have additional ideas how to make [mobilegap.net](http://www.mobilegap.net "www.mobilegap.net") better or would like to do the short tech review for an open source app which is already on the list [ping us on Twitter](https://twitter.com/mobilegap "MobileGap on Twitter").
+
+By [@sauliuz](https://twitter.com/sauliuz) and [popularowl.com](http://www.popularowl.com "open source technologies, simplified")

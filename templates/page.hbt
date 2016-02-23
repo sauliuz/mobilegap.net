@@ -1,0 +1,10 @@
+{{> header}}
+<div class="six columns">
+<div id="full-wrapper" class="animated BeanFadeIn">
+<div class="page-entry-content">
+<div class="entry-content">
+{{{contents}}}
+</div>
+</div>
+</div>
+{{> footer}}

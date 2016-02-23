@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<title>List of open source mobile apps - MobileGap</title>
+		
+<meta name="description" content="MobileGap is the place summarizing open source mobile application projects. We list apps for popular mobile platforms, all are grouped by platform"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://www.mobilegap.net/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="List of open source mobile apps - MobileGap" />
+<meta property="og:description" content="MobileGap is the place summarizing open source mobile application projects. We list apps for popular mobile platforms, all are grouped by platform" />
+<meta property="og:url" content="http://www.mobilegap.net/" />
+<meta property="og:site_name" content="MobileGap" />
+
+<link rel='stylesheet' href='css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' href='css/mobile.css' type='text/css' media='all' />
+<link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Bitter&#038;ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Source+Sans+Pro&#038;ver=4.4.2' type='text/css' media='all' />
+<link rel="shortcut icon" href="img/popularowl.png"/> 
+
+<!-- aditional js resources -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+
+</head>
+
+<body class="home page page-id-4 page-template page-template-page-applist page-template-page-applist-php chrome">
+			
+<div class="menu_container show-for-small">
+<a id="menu-toggle" class="anchor-link" href="#mobile-nav"></a>
+</div>
+		
+<nav id="#mobile-nav" class="nav clearfix show-for-small animated" role="navigation">
+<div class="main-menu">
+<ul>
+<li class="current_page_item">
+<a href="http://www.mobilegap.net/">Home</a>
+</li>
+<li class="page_item page-item-19">
+<a href="http://www.mobilegap.net/about/">About</a>
+</li>
+</ul>
+</div>
+</nav>
+
+<div id="primary-container">  
+<div class="row">
+<div id="header-container" class="block mobile-four">
+<div class="branding">
+<div class="logo">
+<a href="http://www.mobilegap.net" title="MobileGap" rel="home">
+<h1 class="logo_text">MobileGap</h1>
+</a>
+</div>
+<p>Don't reinvent the wheel</p>
+</div>
+<div class="sep hide-for-small"></div>
+<aside class="sidebar hide-for-small" role="complementary">
+<div class="widget widget_text clearfix">
+<h3 class="widget-title">Navigation</h3>
+<div class="textwidget">
+<a href="http://www.mobilegap.net">Home</a><br />
+<a href="http://www.mobilegap.net/about">About</a><br />
+<div class="sep"></div>
+</div>
+</div>
+<div class="sep clearfix "></div>
+<div class="widget widget_text clearfix">
+<h3 class="widget-title">Follow</h3>
+<div class="textwidget">
+<a href="https://twitter.com/mobilegap" target="_blank">MobileGap on Twitter</a><br />
+<a href="https://github.com/sauliuz/mobilegap.net" target="_blank">GitHub</a><br />
+</div>
+</div>
+<div class="sep clearfix "></div>				
+</aside>
+</div>

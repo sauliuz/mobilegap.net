@@ -1,0 +1,18 @@
+{
+  "name": "www.mobilegap.net",
+  "version": "0.1.0",
+  "description": "MobileGap - open source mobile application directory",
+  "main": "index.js",
+  "repository": { 
+    "type" : "git",
+    "url" : "https://github.com/sauliuz/mobilegap.net.git"
+  },
+  "dependencies": {
+    "handlebars": "^4.0.5",
+    "metalsmith": "^2.1.0",
+    "metalsmith-markdown": "^0.2.1",
+    "metalsmith-templates": "^0.7.0"
+  },
+  "author": "popularowl.com",
+  "license": "MIT"
+}
