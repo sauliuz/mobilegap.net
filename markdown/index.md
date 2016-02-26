@@ -31,6 +31,7 @@ Below are the 3 open source mobile application categories:
 *   **[Chat Secure](https://github.com/ChatSecure/ChatSecure-iOS)** is a multiprotocol instant messager app with message encryption through libotr library by Cypherpunks.
 *   **[Cheddar](https://github.com/nothingmagical/cheddar-ios)** is a task manager app which syncs your tasks across multiple devices.
 *   **[Colloquy](http://colloquy.info/project/browser/trunk)** IRC chat client for iOS and MacOSX for that matter.
+*   **[Connfa](https://github.com/lemberg/connfa-ios)** open source iOS mobile application client for events and conferences. Example schedules, speaker profiles and session details.
 *   **[ComicFlow](http://code.google.com/p/comicflow)** is the open source comic reader application for iPad tablets. Doesn’t have the best reviews on app store but is good example of iOS reader application.
 *   **[Dollar Bets](https://github.com/Rich86man/Dollar-Bets)** nice application, which lets you record small disagreements between friends as bets and monetize them.
 *   **[Diceshaker](https://github.com/millenomi/diceshaker)** is a dice-rolling utility for your role playing sessions and board games. Multi platform project supporting iOS.
@@ -81,6 +82,7 @@ Below are the 3 open source mobile application categories:
 *   **[Accordion](https://github.com/billthefarmer/accordion)** is the application for emulating accordion sounds on your Android powered tablets. With the choice of MIDI instruments.
 *   **[BlueGPS](http://sourceforge.net/p/bluegps4droid/git/ci/master/tree/)** application to connect with external GPS devices via Bluetooth.
 *   **[ConnectBot](https://code.google.com/p/connectbot/)** is a secure shell client application for Android smartphones. Through it you can establish multiple ssh sessions to remote locations.
+*   **[Connfa](https://github.com/lemberg/connfa-android)** Android application for events and conferences. Example schedules, speaker profiles and session details.
 *   **[Kontalk](https://code.google.com/p/connectbot/)** messenger application for Android devices.
 *   **[Moss](https://github.com/teneighty/moss)** is an open source wallpaper application for Android which displays technical parameters of operating system on your home screen.
 *   **[messic4android](https://github.com/spheras/messic-android)** open source Android client to listen to music from a messic server.
