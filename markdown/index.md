@@ -86,7 +86,7 @@ Below are the 3 open source mobile application categories:
 *   **[Kontalk](https://code.google.com/p/connectbot/)** messenger application for Android devices.
 *   **[Moss](https://github.com/teneighty/moss)** is an open source wallpaper application for Android which displays technical parameters of operating system on your home screen.
 *   **[messic4android](https://github.com/spheras/messic-android)** open source Android client to listen to music from a messic server.
-*   **[Pathological](https://play.google.com/store/apps/details?id=org.gignac.jp.pathological)** Puzzle game involving wheels, marbles and gadgets.  Source code is [available](https://github.com/jjgignac/pathological-android) under GPL3
+*   **[Pathological](https://github.com/jjgignac/pathological-android)** Puzzle game involving wheels, marbles and gadgets.
 *   **[Pedometer](https://github.com/bagilevi/android-pedometer)** open source Android application which counts steps as smartphone owner walks.
 *   **[Photobook](https://github.com/aboev/photobook-client)** is a open source client applications for an image sharing social network. Supports comments, likes and public feed.
 *   **[Rage Maker](http://code.google.com/p/android-rage-maker/source/list)** application for making funny comic strips with mobile phone powered by Android.
