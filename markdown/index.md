@@ -63,6 +63,7 @@ Below are the 3 open source mobile application categories:
 *   **[SparkleShare](https://github.com/darvin/SparkleShare-iOS)** client application for sparkleshare open source file synch project.
 *   **[Tweejump](https://github.com/haqu/tweejump)** simple jump up game created using Cocos2D game engine for iOS. Game.
 *   **[Olympics 2012](https://github.com/Frahaan/2012-Olympics-iOS--iPad-and-iPhone--source-code)** source code for official iOS mobile application used by London Olympic games organizers.
+*   **[OpenShop.io](https://github.com/openshopio/openshop.io-ios)** ecommerce mobile solution.
 *   **[Next Airport](https://github.com/mmackh/Next-Airport)** is application for finding weather and navigation conditions in the closest airports around you.
 *   **[Prey](https://github.com/prey/prey-ios-client)** project is created to help recover laptops and smartphones in case they are stolen. It activates remotely, enables in device camera and geo location. This version is for iOS devices.
 *   **[Pw Safe](http://app77.com/pwSafe/)** application for managing passwords. Integrates iCloud and DropBox and supports Password Safe files.
@@ -86,6 +87,7 @@ Below are the 3 open source mobile application categories:
 *   **[Kontalk](https://code.google.com/p/connectbot/)** messenger application for Android devices.
 *   **[Moss](https://github.com/teneighty/moss)** is an open source wallpaper application for Android which displays technical parameters of operating system on your home screen.
 *   **[messic4android](https://github.com/spheras/messic-android)** open source Android client to listen to music from a messic server.
+*   **[OpenShop.io](https://github.com/openshopio/openshop.io-android)** ecommerce mobile solution.
 *   **[Pedometer](https://github.com/bagilevi/android-pedometer)** open source Android application which counts steps as smartphone owner walks.
 *   **[Photobook](https://github.com/aboev/photobook-client)** is a open source client applications for an image sharing social network. Supports comments, likes and public feed.
 *   **[Rage Maker](http://code.google.com/p/android-rage-maker/source/list)** application for making funny comic strips with mobile phone powered by Android.
