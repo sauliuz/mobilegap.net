@@ -82,6 +82,7 @@ Below are the 3 open source mobile application categories:
 *   **[AntennaPod](https://github.com/danieloeh/AntennaPod)** is a podcast manager app for Android. It had feed auto refresh, streaming and other features built in.
 *   **[Accordion](https://github.com/billthefarmer/accordion)** is the application for emulating accordion sounds on your Android powered tablets. With the choice of MIDI instruments.
 *   **[BlueGPS](http://sourceforge.net/p/bluegps4droid/git/ci/master/tree/)** application to connect with external GPS devices via Bluetooth.
+*   **[Card Case](https://github.com/blocoio/cardcase)** app to quickly exchange business cards with people nearby.
 *   **[ConnectBot](https://code.google.com/p/connectbot/)** is a secure shell client application for Android smartphones. Through it you can establish multiple ssh sessions to remote locations.
 *   **[Connfa](https://github.com/lemberg/connfa-android)** Android application for events and conferences. Example schedules, speaker profiles and session details.
 *   **[Kontalk](https://code.google.com/p/connectbot/)** messenger application for Android devices.
