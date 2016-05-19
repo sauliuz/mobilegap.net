@@ -89,6 +89,7 @@ Below are the 3 open source mobile application categories:
 *   **[Pedometer](https://github.com/bagilevi/android-pedometer)** open source Android application which counts steps as smartphone owner walks.
 *   **[Photobook](https://github.com/aboev/photobook-client)** is a open source client applications for an image sharing social network. Supports comments, likes and public feed.
 *   **[Rage Maker](http://code.google.com/p/android-rage-maker/source/list)** application for making funny comic strips with mobile phone powered by Android.
+*   **[Rocket Chat](https://github.com/RocketChat/Rocket.Chat.Android.Lily)** is open source and official Rocket Chat clinet application for Android OS.
 *   **[VLC](http://git.videolan.org/?p=vlc-ports/android.git;a=summary)** media player is one of most popular media players out there. Its open source and ported for Android.
 
 ## Open source cross platform applications built with HTML5
@@ -98,4 +99,5 @@ Below are the 3 open source mobile application categories:
 *   **[Green Mahjong](https://github.com/danbeck/green-mahjong)** is a HTML5 based GPLv3 solitaire mahjong game. It features three nice themes, six different layouts and works accross all the major desktop and mobile browsers.
 *   **[Fresh Food Finder](https://github.com/triceam/Fresh-Food-Finder)** multi platform mobile application for finding where to purchase locally grown food. Built with HTML5 and PhoneGap framework.
 *   **[Framework7 and Parse Login](https://github.com/popularowl/framework7-parse)** example HTML5 application built with popular Framework7 framework which has integration with Parse BaaS service for user management. This application serves as a good example for building HTML5 apps with external backend service.
+*   **[Rocket Chat Cordova](https://github.com/RocketChat/Rocket.Chat.Cordova)** is an official Rocket Chat cross platfrom client application created to be wraped with Cordova mobile framework.
 *   **[Tweedie](https://github.com/aanon4/tweedie)** another Twitter client application. This time it’s developed by using HTML5, JavaScript and PhoneGap mobile application framework.
