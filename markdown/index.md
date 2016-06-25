@@ -50,7 +50,7 @@ Below are the 3 open source mobile application categories:
 *   **[iLabyrinth](https://github.com/RolandasRazma/iLabyrinth)** is the labyrinth game built by the developer of previous Haredox game and again with the help of Cocos2D. Game.
 *   **[Last.fm](https://github.com/c99koder/lastfm-iphone)** is an official Last.fm mobile application for iOS platform.
 *   **[Mapbox Earth](https://github.com/mapbox/mapbox-earth)** application to showcase Mapbox maps in 3D space. Good starting point for someone who want to develop mapping application for iOS.
-*   **[Master Password](https://github.com/Lyndir/MasterPassword) **password generator app with integrated support for iCloud.
+*   **[Master Password](https://github.com/Lyndir/MasterPassword)** password generator app with integrated support for iCloud.
 *   **[MStaff](https://github.com/mmackh/MStaff)** is a mobile client application for WhenIWork cloud-based scheduling app. It supports multiple user accounts and real-time activity review.
 *   **[Mugician](https://github.com/rfielding/Mugician)** is an instrument application for iPad designed to be used at real time concerts without the need of any external devices.
 *   **[Mobilesynth](http://code.google.com/p/mobilesynth/)** open source synthesizer application for iOS mobile platform.
@@ -58,13 +58,14 @@ Below are the 3 open source mobile application categories:
 *   **[Stockfish Chess](http://stockfishchess.org/download/)** is an open source chess game powered by AI algorithms. Its core is available for multiple desktop platforms and mobile version is built for iOS and other mobile platforms.
 *   **[The White House](https://github.com/WhiteHouse/wh-app-ios)** application for fetching and displaying multiple streams of content, including video content. Its and official iOS application for US government White House.
 *   **[Task Coach](http://sourceforge.net/p/taskcoach/code/HEAD/tree/trunk/taskcoach-iphone/)** mobile version of Task Coach desktop application. It has embedded sync functionality with other application versions running on desktop environments.
-*   **[Pancake](https://github.com/Imaginea/pancake-ios)** client application for managing SugarCRM projects on iOS. It’s designed to access various modules of SugarCRM with the possibility of adding, deleting, editing the data.
 *   **[Sign Plus](https://github.com/sonnyfazio/SignPlus)** application for creating digital signatures on iOS powered devices.
 *   **[SparkleShare](https://github.com/darvin/SparkleShare-iOS)** client application for sparkleshare open source file synch project.
 *   **[Tweejump](https://github.com/haqu/tweejump)** simple jump up game created using Cocos2D game engine for iOS. Game.
 *   **[Olympics 2012](https://github.com/Frahaan/2012-Olympics-iOS--iPad-and-iPhone--source-code)** source code for official iOS mobile application used by London Olympic games organizers.
 *   **[OpenShop.io](https://github.com/openshopio/openshop.io-ios)** ecommerce mobile solution.
 *   **[Next Airport](https://github.com/mmackh/Next-Airport)** is application for finding weather and navigation conditions in the closest airports around you.
+*   **[Pancake](https://github.com/Imaginea/pancake-ios)** client application for managing SugarCRM projects on iOS. It’s designed to access various modules of SugarCRM with the possibility of adding, deleting, editing the data.
+*   **[Parse Store](https://github.com/ParsePlatform/ParseStore)** example iOS mobile commerce application with the Stripe and Parse services integration. 
 *   **[Prey](https://github.com/prey/prey-ios-client)** project is created to help recover laptops and smartphones in case they are stolen. It activates remotely, enables in device camera and geo location. This version is for iOS devices.
 *   **[Pw Safe](http://app77.com/pwSafe/)** application for managing passwords. Integrates iCloud and DropBox and supports Password Safe files.
 *   **[Sci-15 HPCalc](http://code.google.com/p/hpcalc-iphone/downloads/list)** scientific calculator application for multiple mobile platforms. This is code for iOS platform.
