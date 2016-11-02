@@ -3,15 +3,20 @@
 ### About MobileGap
 MobileGap is [a list of open sourced mobile application projects](http://www.mobilegap.net "list of open sourced mobile application projects") currated and managed by the community.
 
-MobileGap web site is an open source project project itself. You are welcome to contribute and add links to your open source projects by creating pull requests on GitHub.
+[MobileGap](http://www.mobilegap.net) web site is an open source project itself. You are welcome to contribute and add links to mobile open source projects by creating a pull request directly on this GitHub repository.
+
+### How to
+The content of mobilegap.net is maintained in the Markdown language. [Metalsmith](https://github.com/metalsmith/metalsmith) is used to build the html content from the Markdown pages in this project.
+
+The following will build html pages in mobilegap.net directory (you must have [NodeJS and npm installed](https://nodejs.org/en/))
+
+    npm install
+    node index.js
+
 
 ### Contribute to MobileGap
 
-The content of mobilegap.net is maintained in Markdown language.
-
 In order to add link to your application source code, you have to issue the pull request to update the [index.md](https://github.com/sauliuz/mobilegap.net/blob/master/markdown/index.md "add the link to your open source application") page. **Please respect the order which is based on application name**.
-
-MobileGap is using Metalsmith to build html site from the Markdown pages.
 
 If there are submissions, the code is synched one or two times per month.
 
