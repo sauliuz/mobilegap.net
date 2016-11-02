@@ -11,8 +11,19 @@ We aim for this list to be an inspiration and help to the app developers and des
 
 MobileGap web site is an open source project project itself. You are welcome to contribute to its content by creating pull requests on GitHub.
 
+# Mobile Jobs List
+
+We have recently introduced a simple jobs list for mobile projects at [work.mobilegap.net](http://work.mobilegap.net "work.mobilegap.net")
+
+Very minimalistic, allows you to either list the projects who need mobile developers or list your developer skillset so other people can find you. Feel free to use it!
+
+
 # Contribute to MobileGap
 
-This and the other pages of www.mobilegap.net website are open sourced on [MobileGap GitHub](https://github.com/sauliuz/mobilegap.net). If you want to add your open source project to the list, all you have to do is to create a pull request with your application description and link. **Please respect the order which is based on application name**. Visit project Readme for more detailed instructions on [submitting your project to mobilegap.net](https://github.com/sauliuz/mobilegap.net/blob/master/Readme.md).
+This website is open sourced on [MobileGap GitHub](https://github.com/sauliuz/mobilegap.net). 
+
+You are welcome to add new mobile projects to the list. If you wish to do so, just create a pull request with your application description and link. 
+
+**Please respect the order which is based on application name**. Visit project Readme for more detailed instructions on [submitting your project to mobilegap.net](https://github.com/sauliuz/mobilegap.net/blob/master/Readme.md).
 
 If you have additional ideas how to make [mobilegap.net](http://www.mobilegap.net "www.mobilegap.net") better or would like to do the short tech review for an open source app which is already on the list [ping us on Twitter](https://twitter.com/mobilegap "MobileGap on Twitter").
