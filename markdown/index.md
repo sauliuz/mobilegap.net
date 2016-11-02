@@ -100,6 +100,7 @@ Below are the 3 open source mobile application categories:
 ## Open source cross platform applications built with HTML5
 
 *   **[AngularJS Mobile](https://github.com/sauliuz/angularjs-mobile)** is an example mobile application built using AngularJS framework, HTML5 and wrapped up with PhoneGap.
+*   **[Assemblies - Meetup clone](https://github.com/buildreactnative/assemblies)** assemblies is the cross platfrom mobile application for organising meetups, built using React Native components. 
 *   **[DropboxSync](https://github.com/ccoenraets/phonegap-dropbox-sync/tree/master/sample)** mobile application which is built with the help of PhoneGap frameworks and lets users to sync and share their DropBox files between mobile apps.
 *   **[Green Mahjong](https://github.com/danbeck/green-mahjong)** is a HTML5 based GPLv3 solitaire mahjong game. It features three nice themes, six different layouts and works accross all the major desktop and mobile browsers.
 *   **[Fresh Food Finder](https://github.com/triceam/Fresh-Food-Finder)** multi platform mobile application for finding where to purchase locally grown food. Built with HTML5 and PhoneGap framework.
