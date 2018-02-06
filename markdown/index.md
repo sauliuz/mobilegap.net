@@ -24,6 +24,7 @@ Below are the 3 open source mobile application categories:
 *   **[AudioGraph](https://github.com/tkzic/audiograph)** a demo application for demonstrating iOS audio processing.
 *   **[Authenticator](https://github.com/mattrubin/Authenticator)** Authenticator is a simple, free, and open source two-factor authentication app for iOS devices.
 *	**[Bancha](https://github.com/squallstar/bancha-ios-app)** open source iOS application for displaying content powered by Bancha CMS.
+*	**[BitPrice](https://github.com/Bruno-Furtado/bitprice-ios)** open source iOS application iOS app for display and monitor the current Bitcoint rate.
 *	**[Bubbsy](https://sites.google.com/site/gwgamedevelopment/bubbsy-download)** open source game for iOS platform.
 *   **[Camlingual](https://github.com/yoshiokatsuneo/camlingual_iphone)** application for reading text on signs and other external media and translating them to foreign languages.
 *   **[Canabalt](https://github.com/ericjohnson/canabalt-ios)** another open source single player game for iOS.
