@@ -31,4 +31,4 @@ jobs: # a collection of steps
       - run: # deploy
           name: deploy with rsync
           command: |
-            cd mobilegap.net && rsync -av -e "ssh -p$SSH_PORT -o StrictHostKeyChecking=no"  ./ $SSH_USER@$SSH_HOST:$SSH_PATH
+            cd mobilegap.net && rsync -av -e "ssh -p$SSH_PORT -q -o StrictHostKeyChecking=no"  ./ $SSH_USER@$SSH_HOST:$SSH_PATH
