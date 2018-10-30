@@ -20,12 +20,12 @@
 
 <meta name="description" content="MobileGap is the place summarizing open source mobile application projects. We list apps for popular mobile platforms, all are grouped by platform"/>
 <meta name="robots" content="noodp"/>
-<link rel="canonical" href="http://www.mobilegap.net/" />
+<link rel="canonical" href="https://www.mobilegap.net/" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="List of open source mobile apps - MobileGap" />
 <meta property="og:description" content="MobileGap is the place summarizing open source mobile application projects. We list apps for popular mobile platforms, all are grouped by platform" />
-<meta property="og:url" content="http://www.mobilegap.net/" />
+<meta property="og:url" content="https://www.mobilegap.net/" />
 <meta property="og:site_name" content="MobileGap" />
 
 <link rel='stylesheet' href='css/style.css' type='text/css' media='all' />
@@ -49,10 +49,10 @@
 <div class="main-menu">
 <ul>
 <li class="current_page_item">
-<a href="http://www.mobilegap.net/">Home</a>
+<a href="https://www.mobilegap.net/">Home</a>
 </li>
 <li class="page_item page-item-19">
-<a href="http://www.mobilegap.net/about.html">About</a>
+<a href="https://www.mobilegap.net/about.html">About</a>
 </li>
 </ul>
 </div>
@@ -63,7 +63,7 @@
 <div id="header-container" class="block mobile-four">
 <div class="branding">
 <div class="logo">
-<a href="http://www.mobilegap.net" title="MobileGap" rel="home">
+<a href="https://www.mobilegap.net" title="MobileGap" rel="home">
 <h1 class="logo_text">MobileGap</h1>
 </a>
 </div>
@@ -76,8 +76,8 @@
 <div class="widget widget_text clearfix">
   <h3 class="widget-title">Navigation</h3>
   <div class="textwidget">
-    <a href="http://www.mobilegap.net">Home</a><br />
-    <a href="http://www.mobilegap.net/about.html">About</a><br />
+    <a href="https://www.mobilegap.net">Home</a><br />
+    <a href="https://www.mobilegap.net/about.html">About</a><br />
     <div class="sep"></div>
   </div>
 </div>

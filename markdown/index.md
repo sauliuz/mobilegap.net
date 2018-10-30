@@ -87,9 +87,11 @@ Below are the 3 open source mobile application categories:
 *   **[ConnectBot](https://code.google.com/p/connectbot/)** is a secure shell client application for Android smartphones. Through it you can establish multiple ssh sessions to remote locations.
 *   **[Connfa](https://github.com/lemberg/connfa-android)** Android application for events and conferences. Example schedules, speaker profiles and session details.
 *   **[Kontalk](https://code.google.com/p/connectbot/)** messenger application for Android devices.
+*   **[Materialistic for Hacker News](https://github.com/hidroh/materialistic)** open source material design Hacker News client for Android.
 *   **[Moss](https://github.com/teneighty/moss)** is an open source wallpaper application for Android which displays technical parameters of operating system on your home screen.
 *   **[messic4android](https://github.com/spheras/messic-android)** open source Android client to listen to music from a messic server.
-*   **[OpenShop.io](https://github.com/openshopio/openshop.io-android)** ecommerce mobile solution.
+*   **[OpenHub](https://github.com/ThirtyDegreesRay/OpenHub)** open source GitHub client application.
+*   **[OpenShop.io](https://github.com/openshopio/openshop.io-android)** ecommerce mobile application.
 *   **[Pathological](https://github.com/jjgignac/pathological-android)** Puzzle game involving wheels, marbles and gadgets.
 *   **[Pedometer](https://github.com/bagilevi/android-pedometer)** open source Android application which counts steps as smartphone owner walks.
 *   **[Photobook](https://github.com/aboev/photobook-client)** is a open source client applications for an image sharing social network. Supports comments, likes and public feed.
