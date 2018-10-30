@@ -1,0 +1,33 @@
+version: 2 # use CircleCI 2.0
+jobs: # a collection of steps
+  build:
+    branches:
+      only:
+        - master
+    working_directory: ~/magic-place # directory where steps will run
+    docker:
+      - image: circleci/node:8 # ...with this image as the primary container; this is where all `steps` will run
+    steps: 
+      - add_ssh_keys:
+          fingerprints:
+            - $SSH_FINGERPRINT      
+      - checkout # check out source code to working directory
+      - run:
+          name: update-npm
+          command: 'sudo npm install -g npm@latest'
+      - restore_cache: # special step to restore the dependency cache 
+          key: dependency-cache-{{ checksum "package.json" }}
+      - run:
+          name: install-npm
+          command: npm install
+      - save_cache: # special step to save the dependency cache
+          key: dependency-cache-{{ checksum "package.json" }}
+          paths:
+            - ./node_modules
+      - run:
+          name: build static pages
+          command: node index.js
+      - run: # deploy
+          name: deploy with rsync
+          command: |
+            cd /mobilegap.net && rsync -av -e "ssh -p$SSH_PORT"  ./ $SSH_USER@$SSH_HOST:$SSH_PATH
