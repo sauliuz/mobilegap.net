@@ -1,6 +1,9 @@
 version: 2 # use CircleCI 2.0
 jobs: # a collection of steps
-  build: 
+  build:
+    branches:
+      only:
+        - master
     working_directory: ~/magic-place # directory where steps will run
     docker:
       - image: circleci/node:8 # ...with this image as the primary container; this is where all `steps` will run
