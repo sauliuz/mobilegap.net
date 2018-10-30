@@ -7,7 +7,7 @@ MobileGap is [a list of open sourced mobile application projects](https://www.mo
 
 ### Build
 
-The content of mobilegap.net is maintained in the [Markdown language].(https://www.htmlcenter.com/blog/static-html-websites-markdown-metalsmith/). [Metalsmith](https://github.com/metalsmith/metalsmith) is used to build the html content from the Markdown pages in this project.
+The content of mobilegap.net is maintained in the [Markdown language](https://www.htmlcenter.com/blog/static-html-websites-markdown-metalsmith/). [Metalsmith](https://github.com/metalsmith/metalsmith) is used to build the html content from the Markdown pages in this project.
 
 The following will build html pages in mobilegap.net directory (you must have [NodeJS and npm installed](https://nodejs.org/en/))
 
@@ -23,4 +23,4 @@ If there are submissions, the code is synched one or two times per month.
 
 If you have additional ideas how to make [mobilegap.net](http://www.mobilegap.net "www.mobilegap.net") better or would like to do the short tech review for an open source app which is already on the list [ping us on Twitter](https://twitter.com/mobilegap "MobileGap on Twitter").
 
-By [@sauliuz](https://twitter.com/sauliuz) and [popularowl.com](http://www.popularowl.com "open source technologies, simplified")
+By [@sauliuz](https://twitter.com/sauliuz) and [popularowl.com](http://www.popularowl.com "apis made simple")
