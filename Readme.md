@@ -1,13 +1,13 @@
 ## MobileGap - list of open source mobile application projects
 
 ### About MobileGap
-MobileGap is [a list of open sourced mobile application projects](http://www.mobilegap.net "list of open sourced mobile application projects") currated and managed by the community.
+MobileGap is [a list of open sourced mobile application projects](https://www.mobilegap.net "list of open sourced mobile application projects") currated and managed by the community.
 
-[MobileGap](http://www.mobilegap.net) web site is an open source project itself. You are welcome to contribute and add links to mobile open source projects by creating a pull request directly on this GitHub repository.
+[MobileGap](https://www.mobilegap.net) web site is an open source project itself. You are welcome to contribute and add links to mobile open source projects by creating a pull request directly on this GitHub repository.
 
 ### Build
 
-The content of mobilegap.net is maintained in the Markdown language. [Metalsmith](https://github.com/metalsmith/metalsmith) is used to build the html content from the Markdown pages in this project.
+The content of mobilegap.net is maintained in the [Markdown language].(https://www.htmlcenter.com/blog/static-html-websites-markdown-metalsmith/). [Metalsmith](https://github.com/metalsmith/metalsmith) is used to build the html content from the Markdown pages in this project.
 
 The following will build html pages in mobilegap.net directory (you must have [NodeJS and npm installed](https://nodejs.org/en/))
 
