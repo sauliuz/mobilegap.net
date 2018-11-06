@@ -29,4 +29,4 @@ After pull request is merged, CI will release your updates to [mobilegap.net](ht
 
 If you have additional ideas how to make [mobilegap.net](http://www.mobilegap.net "www.mobilegap.net") better [ping us on Twitter](https://twitter.com/mobilegap "MobileGap on Twitter").
 
-By [@sauliuz](https://twitter.com/sauliuz) and [popularowl.com](http://www.popularowl.com "enterprise technologies, simplified")
+By [@sauliuz](https://twitter.com/sauliuz) and [popularowl.com](http://www.popularowl.com "apis made simple")
