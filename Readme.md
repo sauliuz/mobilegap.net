@@ -1,3 +1,5 @@
+Release Status: [![CircleCI](https://circleci.com/gh/sauliuz/mobilegap.net/tree/master.svg?style=svg)](https://circleci.com/gh/sauliuz/mobilegap.net/tree/master)
+
 ## mobilegap.net - list of open source mobile application projects
 
 ### About
