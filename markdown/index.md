@@ -5,9 +5,11 @@ template: page.hbt
 
 # List of open source mobile applications
 
-MobileGap is the list of many open source mobile application projects. MobileGap lists projects for 3 popular mobile platforms, all apps are grouped by platform. All the links are on one page so text searching the home page should find what best fits your needs.
+MobileGap is the collection of open source mobile application projects. We group projects for 3 popular mobile platforms. Currentlly its a single page app, and text searching the home page should find your results.
 
-This and other pages of mobilegap.net website are open sourced on [MobileGap GitHub](https://github.com/sauliuz/mobilegap.net). If you want to add your project to the list all you have to do is to create a pull request with your application description and link. Please respect the order which is based on application name. More information about [submitting your project to mobilegap.net](https://github.com/sauliuz/mobilegap.net/blob/master/Readme.md).
+Mobilegap.net site is open sourced on [MobileGap GitHub](https://github.com/sauliuz/mobilegap.net). If you want to add your project to the below list all you have to do is to create a pull request with your application description and link. Please respect the order which is based on application name. 
+
+Detailed instructions for [submitting your project to mobilegap.net](https://github.com/sauliuz/mobilegap.net/blob/master/Readme.md).
 
 Below are the 3 open source mobile application categories:
 
