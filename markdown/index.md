@@ -86,6 +86,7 @@ Below are the 3 open source mobile application categories:
 *   **[Card Case](https://github.com/blocoio/cardcase)** app to quickly exchange business cards with people nearby.
 *   **[ConnectBot](https://code.google.com/p/connectbot/)** is a secure shell client application for Android smartphones. Through it you can establish multiple ssh sessions to remote locations.
 *   **[Connfa](https://github.com/lemberg/connfa-android)** Android application for events and conferences. Example schedules, speaker profiles and session details.
+*   **[Kickstarters Android app](https://github.com/kickstarter/android-oss)** Official Android application used by popular  Kickstarter platform.
 *   **[Kontalk](https://code.google.com/p/connectbot/)** messenger application for Android devices.
 *   **[Materialistic for Hacker News](https://github.com/hidroh/materialistic)** open source material design Hacker News client for Android.
 *   **[Moss](https://github.com/teneighty/moss)** is an open source wallpaper application for Android which displays technical parameters of operating system on your home screen.
@@ -95,9 +96,11 @@ Below are the 3 open source mobile application categories:
 *   **[Pathological](https://github.com/jjgignac/pathological-android)** Puzzle game involving wheels, marbles and gadgets.
 *   **[Pedometer](https://github.com/bagilevi/android-pedometer)** open source Android application which counts steps as smartphone owner walks.
 *   **[Photobook](https://github.com/aboev/photobook-client)** is a open source client applications for an image sharing social network. Supports comments, likes and public feed.
+*   **[Plaid](https://github.com/nickbutcher/plaid)** Android application to showcase material design examples within mobile application.
 *   **[Rage Maker](http://code.google.com/p/android-rage-maker/source/list)** application for making funny comic strips with mobile phone powered by Android.
 *   **[Rocket Chat](https://github.com/RocketChat/Rocket.Chat.Android.Lily)** is open source and official Rocket Chat clinet application for Android OS.
 *   **[VLC](http://git.videolan.org/?p=vlc-ports/android.git;a=summary)** media player is one of most popular media players out there. Its open source and ported for Android.
+*   **[Wordpress Android app](https://github.com/wordpress-mobile/WordPress-Android)** Official Android application for WordpPress.com platform.
 
 ## Open source cross platform applications built with HTML5
 
