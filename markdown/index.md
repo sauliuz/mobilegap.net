@@ -88,6 +88,7 @@ Below are the 3 open source mobile application categories:
 *   **[Card Case](https://github.com/blocoio/cardcase)** app to quickly exchange business cards with people nearby.
 *   **[ConnectBot](https://code.google.com/p/connectbot/)** is a secure shell client application for Android smartphones. Through it you can establish multiple ssh sessions to remote locations.
 *   **[Connfa](https://github.com/lemberg/connfa-android)** Android application for events and conferences. Example schedules, speaker profiles and session details.
+*   **[FastHub](https://github.com/k0shk0sh/FastHub)** The ultimate Android client for managing GitHub projects.
 *   **[Kickstarters Android app](https://github.com/kickstarter/android-oss)** Official Android application used by popular  Kickstarter platform.
 *   **[Kontalk](https://code.google.com/p/connectbot/)** messenger application for Android devices.
 *   **[Materialistic for Hacker News](https://github.com/hidroh/materialistic)** open source material design Hacker News client for Android.
