@@ -81,6 +81,7 @@ Below are the 3 open source mobile application categories:
 ## Open sourced mobile applications for Android mobile platform
 
 *   **[AddBlockPlus](https://hg.adblockplus.org/adblockplusandroid)** is an application which runs in the background and silently blocks advertisements for you smart phone.
+*   **[Amaze File Manager](https://github.com/TeamAmaze/AmazeFileManager)** light and smooth file manager app, with encryption / decryption funcionality.
 *   **[ aMetro](http://code.google.com/p/ametro/source/checkout)** app which includes metro plans for 180 cities worldwide.
 *   **[AntennaPod](https://github.com/danieloeh/AntennaPod)** is a podcast manager app for Android. It had feed auto refresh, streaming and other features built in.
 *   **[Accordion](https://github.com/billthefarmer/accordion)** is the application for emulating accordion sounds on your Android powered tablets. With the choice of MIDI instruments.
@@ -89,6 +90,7 @@ Below are the 3 open source mobile application categories:
 *   **[ConnectBot](https://code.google.com/p/connectbot/)** is a secure shell client application for Android smartphones. Through it you can establish multiple ssh sessions to remote locations.
 *   **[Connfa](https://github.com/lemberg/connfa-android)** Android application for events and conferences. Example schedules, speaker profiles and session details.
 *   **[FastHub](https://github.com/k0shk0sh/FastHub)** The ultimate Android client for managing GitHub projects.
+*   **[Flym](https://github.com/FredJul/Flym)** is light and modern Android feed reader (Rss + Atom)
 *   **[Kickstarters Android app](https://github.com/kickstarter/android-oss)** Official Android application used by popular  Kickstarter platform.
 *   **[Kontalk](https://code.google.com/p/connectbot/)** messenger application for Android devices.
 *   **[Materialistic for Hacker News](https://github.com/hidroh/materialistic)** open source material design Hacker News client for Android.
