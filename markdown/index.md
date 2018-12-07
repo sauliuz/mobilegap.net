@@ -101,10 +101,13 @@ Below are the 3 open source mobile application categories:
 *   **[OpenShop.io](https://github.com/openshopio/openshop.io-android)** ecommerce mobile application.
 *   **[Pathological](https://github.com/jjgignac/pathological-android)** Puzzle game involving wheels, marbles and gadgets.
 *   **[Pedometer](https://github.com/bagilevi/android-pedometer)** open source Android application which counts steps as smartphone owner walks.
+*   **[Phonograph](https://github.com/kabouzeid/Phonograph)** Android media player application. Based on material design framework.
+*   **[Photobook](https://github.com/aboev/photobook-client)** is a open source client applications for an image sharing social network. Supports comments, likes and public feed. 
 *   **[Photobook](https://github.com/aboev/photobook-client)** is a open source client applications for an image sharing social network. Supports comments, likes and public feed.
 *   **[Plaid](https://github.com/nickbutcher/plaid)** Android application to showcase material design examples within mobile application.
 *   **[Rage Maker](http://code.google.com/p/android-rage-maker/source/list)** application for making funny comic strips with mobile phone powered by Android.
 *   **[Rocket Chat](https://github.com/RocketChat/Rocket.Chat.Android.Lily)** is open source and official Rocket Chat clinet application for Android OS.
+*   **[Shuttle](https://github.com/timusus/Shuttle)** Shuttle is an open source music player app. Build with following material design pattern.
 *   **[VLC](http://git.videolan.org/?p=vlc-ports/android.git;a=summary)** media player is one of most popular media players out there. Its open source and ported for Android.
 *   **[Wordpress Android app](https://github.com/wordpress-mobile/WordPress-Android)** Official Android application for WordpPress.com platform.
 
