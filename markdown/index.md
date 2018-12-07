@@ -96,6 +96,7 @@ Below are the 3 open source mobile application categories:
 *   **[Materialistic for Hacker News](https://github.com/hidroh/materialistic)** open source material design Hacker News client for Android.
 *   **[Moss](https://github.com/teneighty/moss)** is an open source wallpaper application for Android which displays technical parameters of operating system on your home screen.
 *   **[messic4android](https://github.com/spheras/messic-android)** open source Android client to listen to music from a messic server.
+*   **[Omni Notes](https://github.com/federicoiosue/Omni-Notes)** application for managing notes. full text search. attachments and batch editing.
 *   **[OpenHub](https://github.com/ThirtyDegreesRay/OpenHub)** open source GitHub client application.
 *   **[OpenShop.io](https://github.com/openshopio/openshop.io-android)** ecommerce mobile application.
 *   **[Pathological](https://github.com/jjgignac/pathological-android)** Puzzle game involving wheels, marbles and gadgets.
