@@ -87,6 +87,7 @@ Below are the 3 open source mobile application categories:
 *   **[Accordion](https://github.com/billthefarmer/accordion)** is the application for emulating accordion sounds on your Android powered tablets. With the choice of MIDI instruments.
 *   **[BlueGPS](http://sourceforge.net/p/bluegps4droid/git/ci/master/tree/)** application to connect with external GPS devices via Bluetooth.
 *   **[Card Case](https://github.com/blocoio/cardcase)** app to quickly exchange business cards with people nearby.
+*   **[CoCoin](https://github.com/Nightonke/CoCoin)** is the accounting application for Android platform.
 *   **[ConnectBot](https://code.google.com/p/connectbot/)** is a secure shell client application for Android smartphones. Through it you can establish multiple ssh sessions to remote locations.
 *   **[Connfa](https://github.com/lemberg/connfa-android)** Android application for events and conferences. Example schedules, speaker profiles and session details.
 *   **[FastHub](https://github.com/k0shk0sh/FastHub)** The ultimate Android client for managing GitHub projects.
@@ -107,9 +108,11 @@ Below are the 3 open source mobile application categories:
 *   **[Plaid](https://github.com/nickbutcher/plaid)** Android application to showcase material design examples within mobile application.
 *   **[Rage Maker](http://code.google.com/p/android-rage-maker/source/list)** application for making funny comic strips with mobile phone powered by Android.
 *   **[Rocket Chat](https://github.com/RocketChat/Rocket.Chat.Android.Lily)** is open source and official Rocket Chat clinet application for Android OS.
-*   **[Shuttle](https://github.com/timusus/Shuttle)** Shuttle is an open source music player app. Build with following material design pattern.
+*   **[Shuttle](https://github.com/timusus/Shuttle)** Shuttle is an open source music player app. Built by following material design pattern.
+*   **[Telegram](https://github.com/DrKLO/Telegram)** Telegram is security focused and fast mobile messaging client app. This is open source version for Android.
 *   **[VLC](http://git.videolan.org/?p=vlc-ports/android.git;a=summary)** media player is one of most popular media players out there. Its open source and ported for Android.
-*   **[Wordpress Android app](https://github.com/wordpress-mobile/WordPress-Android)** Official Android application for WordpPress.com platform.
+*   **[Wordpress Android app](https://github.com/wordpress-mobile/WordPress-Android)** official Android application for WordpPress.com platform.
+*   **[Qksms](https://github.com/moezbhatti/qksms)** is the alternative of Androids default sms messaging application. Nice and simplistic design.
 
 ## Open source cross platform applications built with HTML5
 
