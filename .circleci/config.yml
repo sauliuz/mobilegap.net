@@ -28,7 +28,7 @@ jobs: # a collection of steps
       - run:
           name: build static pages
           command: node index.js
-      - run: # deploy
-          name: deploy with rsync
-          command: |
-            cd mobilegap.net && rsync -av -e "ssh -p$SSH_PORT -q -o StrictHostKeyChecking=no"  ./ $SSH_USER@$SSH_HOST:$SSH_PATH
+      #- run: # deploy
+      #    name: deploy with rsync
+      #    command: |
+      #      cd mobilegap.net && rsync -av -e "ssh -p$SSH_PORT -q -o StrictHostKeyChecking=no"  ./ $SSH_USER@$SSH_HOST:$SSH_PATH
