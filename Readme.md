@@ -1,11 +1,9 @@
-Release Status: [![CircleCI](https://circleci.com/gh/sauliuz/mobilegap.net/tree/master.svg?style=svg)](https://circleci.com/gh/sauliuz/mobilegap.net/tree/master)
-
-## mobilegap.net - list of open source mobile application projects
+## example metalsmith project
 
 ### About
-mobilegap.net is [a list of open sourced mobile application projects](https://www.mobilegap.net "list of open sourced mobile application projects") currated and managed by the community.
+this is an example [metalsmith](https://github.com/segmentio/metalsmith) - static site generator project. 
 
-[mobilegap.net](https://www.mobilegap.net) site is an open source project itself. You are welcome to contribute and add links to your mobile open source projects by creating a pull request directly to master branch on this GitHub repository.
+> [mobilegap.net](https://www.mobilegap.net "list of open sourced mobile application projects") was a list of open source mobile application projects maintained via this github repository. this site has since been disolved, but we have left this project as a reference because several people starred it and got inspiration from it. This code is not actively maintained anymore.
 
 ### Add your project
 
@@ -31,4 +29,4 @@ After pull request is merged, CI will release your updates to [mobilegap.net](ht
 
 If you have additional ideas how to make [mobilegap.net](https://www.mobilegap.net "www.mobilegap.net") better [ping us on twitter](https://twitter.com/mobilegap "MobileGap on Twitter").
 
-By [@sauliuz](https://twitter.com/sauliuz) and [popularowl.com](https://www.popularowl.com "apis made simple")
+By [@sauliuz](https://twitter.com/sauliuz) and [popularowl.com](https://www.popularowl.com "video tutorials and screencasts to learn enterprise technology")
